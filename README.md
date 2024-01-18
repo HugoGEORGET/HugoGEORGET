@@ -1,6 +1,6 @@
-# Hi there 👋, my name is Hugo
+# Hi there 👋, my name is Hugo Georget
 
-I am a fullstack engineer at Wiser Solutions!
+I am an engineer at Wiser Solutions!
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" />
@@ -20,4 +20,4 @@ I am a fullstack engineer at Wiser Solutions!
 
 You can find me here!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/HugoGEORGET) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hugo-georget/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Hugo_Georget)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg' alt='ProtonMail' height='40'>](mailto:hugo.georget@protonmail.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/HugoGEORGET) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hugo-georget/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg' alt='ProtonMail' height='40'>](mailto:hugo.georget@protonmail.com)
